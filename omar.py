@@ -31,25 +31,25 @@ UU:::::U     U:::::UUS:::::S     SSSSSSSEE::::::EEEEEEEEE::::ERR:::::R     R::::
   UU:::::::::::::UU  S::::::SSSSSS:::::SE::::::::::::::::::::ER::::::R     R:::::R
     UU:::::::::UU    S:::::::::::::::SS E::::::::::::::::::::ER::::::R     R:::::R
       UUUUUUUUU       SSSSSSSSSSSSSSS   EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
-                              TOOL BY ĐÀO XUÂN THẮNG 😘
-                              zalo 0329067158 """)
+                              TOOL BY VŨ MINH ĐỨC 😘
+                              
     time.sleep(1.8)
     clear()
 
 def si():
-    print("Zalo/Call: 0329067158")
+    print("SĐT/Call: 0334712480")
     print("Information: coming soon")
 
 def menu():
-    sys.stdout.write(f" tool by DAO XUAN THANG")
+    sys.stdout.write(f" tool by Vu Minh Duc")
     clear()
-    print('  omarV3 DDOS ')
-    print("zalo 0329067158")
-    print(Fore.YELLOW + """
+    print('  SaRaKi DDOS ')
+    print("SĐT 0334712480")
+    print(Fore.RED + """
 \033[1;31m
                    .-"      "-.
                   /            \\
-                 | \033[1;33m ${Omarv3}\033[1;31m  |
+                 | \033[1;33m ${SaRaKi}\033[1;31m  |
                  |,  .-.  .-.  ,|
                  | )(__/  \__)( |
                  |/     /\     \|
@@ -58,9 +58,9 @@ def menu():
  (_)@8@8{}<________|-\IIIIII/-|_\033[1;32mA\033[1;31m_\033[1;32mN\033[1;31m_\033[1;32mO\033[1;31m_\033[1;32mN\033[1;31m_\033[1;32mY\033[1;31m_\033[1;32mM\033[1;31m_\033[1;32mO\033[1;31m_\033[1;32mU\033[1;31m_\033[1;32mS\033[1;31m_\033[1;32mA\033[1;31m_\033[1;32mR\033[1;31m_\033[1;32mA\033[1;31m_\033[1;32mB\033[1;31m_>
         )_/        \          /
        (@           `--------` \033[1;37mDD0$Eq\033[1;31m!\033[1;37m
-            [---]   by:>\033[1;32m Đào Xuân Thắng\033[1;37m   [---]\033[1;32m
+            [---]   by:>\033[1;32m Vũ Minh Đức\033[1;37m   [---]\033[1;32m
             =-------=-=-=-=-=-=-=-=-=-------=
-    TOOL BY ( Đào Xuân Thắng)   
+    TOOL BY ( Vũ Minh Đức)   
  +METHODS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
  - http-raw [url]  [time] 
 """)
@@ -68,7 +68,7 @@ def menu():
 def main():  
     menu()
     while(True):
-        cnc = input('''Daoxuanthang@omar: ''')
+        cnc = input('''vmd@SaRaKi: ''')
         if cnc == "layer7" or cnc == "LAYER7" or cnc == "L7" or cnc == "l7":
             ()
         elif cnc == "layer4" or cnc == "LAYER4" or cnc == "L4" or cnc == "l4":
@@ -164,8 +164,8 @@ def main():
 main()
 def login():
     clear()
-    user = "2007"
-    passwd = "2007"
+    user = "2010"
+    passwd = "2010"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
@@ -173,7 +173,7 @@ def login():
         print("Không Làm Mà Đòi Có Ăn")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("Chào Thằng Con Cặc")
+        print("Ko Làm Mà Đòi Có Ăn 😂")
         time.sleep(3.5)
         ascii_vro()
         main()
